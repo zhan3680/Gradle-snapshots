@@ -1,0 +1,17 @@
+,,,,,,
+,Project Name,Main Language,Gradle Start Commit/Snapshot,Starting Date,Project Repository,#Commits in change history
+1,Bigtop,Java,https://git-wip-us.apache.org/repos/asf?p=bigtop.git;a=commit;h=fae96c50ec118e6aaad8522f271a85b49f32ca71,2014-02-04,https://git-wip-us.apache.org/repos/asf?p=bigtop.git;a=shortlog;h=refs/heads/master,1887
+2,BookKeeper,Java,https://git-wip-us.apache.org/repos/asf?p=bookkeeper.git;a=commit;h=1343a87854f2cd0e145569a7c9755d0fc194ab22,2021-03-19,https://git-wip-us.apache.org/repos/asf?p=bookkeeper.git;a=shortlog;h=refs/heads/master,229
+3,Calcite,Java,https://gitbox.apache.org/repos/asf?p=calcite.git;a=commit;h=66c9cd5e1c88ebe834e6f0f299cfb1e1dffa4296,2019-11-19,https://gitbox.apache.org/repos/asf?p=calcite.git;a=shortlog;h=refs/heads/master,1134
+4,Geode,Java,https://gitbox.apache.org/repos/asf?p=geode.git;a=commit;h=194590531e50039c23459956a162c4c5257640a4,2015-04-28,https://gitbox.apache.org/repos/asf?p=geode.git;a=shortlog;h=refs/heads/develop,10236
+5,Groovy,Java,https://gitbox.apache.org/repos/asf?p=groovy.git;a=commit;h=dcebdd4f05b59a94466a7945dda59789eb20d09f,2008-10-15,https://gitbox.apache.org/repos/asf?p=groovy.git;a=shortlog;h=refs/heads/master,14272
+6,JMeter,Java,https://gitbox.apache.org/repos/asf?p=jmeter.git;a=commit;h=2be94e85daf5307f02cae89b1f0b603066123f59,2019-08-02,https://gitbox.apache.org/repos/asf?p=jmeter.git;a=shortlog;h=refs/heads/master,1302
+7,Lucene,Java,https://gitbox.apache.org/repos/asf?p=lucene.git;a=commit;h=d4a9842375080c1a78404d9353455543d808a60b,2019-12-02,https://gitbox.apache.org/repos/asf?p=lucene.git,3130
+8,OFBiz-framework,Java,https://gitbox.apache.org/repos/asf?p=ofbiz-framework.git;a=commit;h=c2cb34d1e9b780bc32f0b9f074bf280b73052e47,2016-07-04,https://gitbox.apache.org/repos/asf?p=ofbiz-framework.git;a=shortlog;h=refs/heads/trunk,5395
+9,POI,Java,https://github.com/apache/poi/commit/b4c20232b059c6358c389ea9376513fdb90c27f9,2016-12-22,https://github.com/apache/poi,3873
+10,Solr,Java,https://gitbox.apache.org/repos/asf?p=solr.git;a=commit;h=d4a9842375080c1a78404d9353455543d808a60b,2019-12-02,https://gitbox.apache.org/repos/asf?p=solr.git,3092
+11,Tapestry,Java,https://gitbox.apache.org/repos/asf?p=tapestry-5.git;a=commit;h=17d52b856e96429bed7e54f289e10dbeb91e922c,2011-02-09,https://gitbox.apache.org/repos/asf?p=tapestry-5.git;a=shortlog;h=refs/heads/master,3581
+12,XMLBeans,Java,https://github.com/apache/xmlbeans/commit/3aff159ba18d0cb219d0ffa869942c5563ee2ea0,2021-12-27,https://github.com/apache/xmlbeans,96
+,,,,,,
+13,Kafka,Scala,https://gitbox.apache.org/repos/asf?p=kafka.git;a=commit;h=52614ad65e698a9860ab22b2ce66bae773263b36,2014-02-27,https://gitbox.apache.org/repos/asf?p=kafka.git;a=shortlog;h=refs/heads/trunk,9009
+14,Samza,Scala,https://github.com/apache/samza/commit/5ff71e51f650c74636b17653fcc5172a653eab65,2013-08-12,https://github.com/apache/samza,2457

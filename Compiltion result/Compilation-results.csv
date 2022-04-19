@@ -1,0 +1,30 @@
+,# Success,# Dependency failure,# Compilation failure,# Other failure,Success rate,# Total snapshots
+bigtop,86,7,6,1,86%,100
+bookkeeper,9,0,0,91,9%,100
+calcite,100,0,0,0,100%,100
+geode,33,33,29,5,33%,100
+groovy,18,73,0,9,18%,100
+jmeter,100,0,0,0,100%,100
+kafka,88,9,0,3,88%,100
+lucene,66,0,0,34,66%,100
+ofbiz-framework,53,12,35,0,53%,100
+poi,29,0,4,67,29%,100
+samza,63,37,0,0,63%,100
+solr,41,9,0,50,41%,100
+tapestry,49,34,13,4,49%,100
+xmlbeans,23,0,0,2,92%,25
+total,,214,87,266,,
+,,,,,,
+RQ1,,,,,,
+min,,,,,9%,
+1s quartile,,,,,33%,
+median,,,,,58%,
+mean,,,,,59.07%,
+3rd quartile,,,,,88%,
+max,,,,,100%,
+sd,,,,,30.76%,
+,,,,,,
+RQ2,,,,,,
+Dependency,38%,,,,,
+Compilation,15%,,,,,
+Other,47%,,,,,
